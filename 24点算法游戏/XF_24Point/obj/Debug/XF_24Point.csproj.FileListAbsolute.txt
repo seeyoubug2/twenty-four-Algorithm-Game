@@ -1,0 +1,18 @@
+C:\Users\Administrator\Desktop\24点算法游戏\XF_24Point\bin\Debug\XF_24Point.exe.config
+C:\Users\Administrator\Desktop\24点算法游戏\XF_24Point\bin\Debug\XF_24Point.exe
+C:\Users\Administrator\Desktop\24点算法游戏\XF_24Point\bin\Debug\XF_24Point.pdb
+C:\Users\Administrator\Desktop\24点算法游戏\XF_24Point\obj\Debug\XF_24Point.frnMain.resources
+C:\Users\Administrator\Desktop\24点算法游戏\XF_24Point\obj\Debug\XF_24Point.Properties.Resources.resources
+C:\Users\Administrator\Desktop\24点算法游戏\XF_24Point\obj\Debug\XF_24Point.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\24点算法游戏\XF_24Point\obj\Debug\XF_24Point.exe
+C:\Users\Administrator\Desktop\24点算法游戏\XF_24Point\obj\Debug\XF_24Point.pdb
+C:\Users\Administrator\Desktop\24点算法游戏\XF_24Point\obj\Debug\XF_24Point.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\My Project Library\24点算法游戏\XF_24Point\bin\Debug\XF_24Point.exe.config
+C:\Users\Administrator\Desktop\My Project Library\24点算法游戏\XF_24Point\obj\Debug\XF_24Point.exe
+C:\Users\Administrator\Desktop\My Project Library\24点算法游戏\XF_24Point\obj\Debug\XF_24Point.pdb
+C:\Users\Administrator\Desktop\My Project Library\24点算法游戏\XF_24Point\bin\Debug\XF_24Point.exe
+C:\Users\Administrator\Desktop\My Project Library\24点算法游戏\XF_24Point\bin\Debug\XF_24Point.pdb
+C:\Users\Administrator\Desktop\My Project Library\24点算法游戏\XF_24Point\obj\Debug\XF_24Point.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\My Project Library\24点算法游戏\XF_24Point\obj\Debug\XF_24Point.frnMain.resources
+C:\Users\Administrator\Desktop\My Project Library\24点算法游戏\XF_24Point\obj\Debug\XF_24Point.Properties.Resources.resources
+C:\Users\Administrator\Desktop\My Project Library\24点算法游戏\XF_24Point\obj\Debug\XF_24Point.csproj.GenerateResource.Cache
